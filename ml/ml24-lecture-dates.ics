@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241008T143000
+DTEND;TZID=Europe/Berlin:20241008T160000
+SUMMARY:Machine Learning
+EXDATE;TZID=Europe/Berlin:20241010T143000,20241017T143000,20241024T143000
+ ,20241031T143000,20241107T143000,20241114T143000,20241121T143000,2024112
+ 8T143000,20241205T143000,20241212T143000,20241219T143000,20241224T143000
+ ,20241226T143000,20241231T143000,20250102T143000,20250109T143000,2025011
+ 6T143000,20250123T143000,20250130T143000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20250128T150000Z;INTERVAL=1;BYDAY=TU,TH
+UID:ZOOM61270682584@zoom.us
+TZID:Europe/Berlin
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241010T083000
+DTEND;TZID=Europe/Berlin:20241010T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1728563400000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241017T083000
+DTEND;TZID=Europe/Berlin:20241017T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1729168200000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241024T083000
+DTEND;TZID=Europe/Berlin:20241024T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1729773000000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241031T083000
+DTEND;TZID=Europe/Berlin:20241031T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1730381400000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241107T083000
+DTEND;TZID=Europe/Berlin:20241107T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1730986200000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241114T083000
+DTEND;TZID=Europe/Berlin:20241114T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1731591000000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241121T083000
+DTEND;TZID=Europe/Berlin:20241121T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1732195800000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241128T083000
+DTEND;TZID=Europe/Berlin:20241128T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1732800600000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241205T083000
+DTEND;TZID=Europe/Berlin:20241205T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1733405400000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241212T083000
+DTEND;TZID=Europe/Berlin:20241212T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1734010200000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20241219T083000
+DTEND;TZID=Europe/Berlin:20241219T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1734615000000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20250109T083000
+DTEND;TZID=Europe/Berlin:20250109T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1736429400000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20250116T083000
+DTEND;TZID=Europe/Berlin:20250116T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1737034200000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20250123T083000
+DTEND;TZID=Europe/Berlin:20250123T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1737639000000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T002400Z
+DTSTART;TZID=Europe/Berlin:20250130T083000
+DTEND;TZID=Europe/Berlin:20250130T100000
+SUMMARY:Machine Learning
+UID:ZOOM61270682584OCCURRENCE1738243800000@zoom.us
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://rwth.zoom-x.de/j/61270682584?pwd=
+ Dp2PRnPJBi05A3AWznMY8S5VgWIk6u.1\n    Passcode: 691653\n	Description: Zo
+ om link for the ML Lecture in WS 24/25\n\n\nOr an H.323/SIP room system:
+ \n    H.323: 64.224.35.50 (Germany)\n    Webinar ID: 612 7068 2584\n    
+ Passcode: 691653\n\n    SIP: 61270682584@lej.zmeu.us\n    Passcode: 6916
+ 53\n
+TZID:Europe/Berlin
+LOCATION:https://rwth.zoom-x.de/j/61270682584?pwd=Dp2PRnPJBi05A3AWznMY8S5
+ VgWIk6u.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
