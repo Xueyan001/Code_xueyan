@@ -1,0 +1,13 @@
+video_filename = "friction_video.mp4"
+imageio.mimwrite(video_filename, frames, fps=n_frames)
+cap = cv2.VideoCapture(video_filename) # read the video
+if not cap.isOpened(): # check the video file whether be opend right or not
+    print("Error")
+    exit()
+while True:                 # ret is the boolean value
+    ret, frame = cap.read() # .read: Read video files frame by frame
+    if not ret:             # ret = False, break
+        break
+    cv2.imshow('MuJoCo Simulation', frame)
+    if cv2.waitKey(int(1000 / n_frames)) & 0xFF == ord('q'): # each frame keeps the 1000 / framerate ms
+      break

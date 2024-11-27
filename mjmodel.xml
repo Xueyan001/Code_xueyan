@@ -1,0 +1,8 @@
+<mujoco model="MuJoCo Model">
+  <compiler angle="radian"/>
+
+  <worldbody>
+    <geom name="red_box" size="0.2 0.2 0.2" type="box" rgba="1 0 0 1"/>
+    <geom name="green_sphere" size="0.1" pos="0.2 0.2 0.2" rgba="0 1 0 1"/>
+  </worldbody>
+</mujoco>
